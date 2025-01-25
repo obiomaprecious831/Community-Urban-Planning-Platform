@@ -7,3 +7,5 @@ M
 tests/fund-allocation.test.ts,2/6/26b8bde75102b48c61abc472ec877a539a405ab7
 Y
 )contracts/government-api-integration.clar,f/c/fcce7fa2ee8c458dcc7bc58e41de5321f6fb4652
+X
+(tests/government-api-integration.test.ts,7/a/7a0b8c3ce85b0950a4060415f5b03fea239ad864
