@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/fund-allocation.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.government-api-integration]
+path = 'contracts/government-api-integration.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
